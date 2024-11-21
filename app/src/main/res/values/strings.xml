@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PaletaDeColores</string>
+    <string name="color_palette">PALETA DE COLORES</string>
+    <string name="change_color">CAMBIAR COLOR</string>
+    <string name="h1">H1 (20%)</string>
+    <string name="h2">H2 (50%)</string>
+    <string name="h3">H3 (80%)</string>
+    <string name="choose_bar">Elige una barra</string>
+    <string name="choose_color">Elige un color</string>
+    <string name="v1">V1 (20%)</string>
+    <string name="v2">V2 (35%)</string>
+    <string name="v3">V3 (50%)</string>
+    <string name="v4">V4 (65%)</string>
+    <string name="v5">V5 (80%)</string>
+    <string name="white">Blanco</string>
+    <string name="red">Rojo</string>
+    <string name="orange">Naranja</string>
+    <string name="yellow">Amarillo</string>
+    <string name="green">Verde</string>
+    <string name="cyan">Cian</string>
+    <string name="blue">Azul</string>
+    <string name="violet">Violeta</string>
+    <string name="black">Negro</string>
+    <string name="apply_color">Aplicar color</string>
+</resources>
